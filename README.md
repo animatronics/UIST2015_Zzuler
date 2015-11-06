@@ -9,7 +9,6 @@ Department of Creative IT Engineering, POSTECH, South Korea
 In this work, our team (ZZULER) proposes Innovative Editing Tool for animatronics and its Input controller.
 Zzuler means "AWESOME!" in Korean. We tried to develop an *awesome* application by [PROCESSING](https://processing.org/) and [ARDUINO](https://www.arduino.cc/).
 
--------------------------------------
 
 ##INNOVATIVE ANIMATRONICS EDITING TOOL
 
@@ -31,3 +30,8 @@ For recording motion as a block, IAET receives movement signals from a mini pupp
 This interface is focusing on creation of puppet movements by synchronizing the actions between a sensor puppet and an actuator puppet.
 The input interface is the mini control puppet being tightly coupled with the large puppet made to act.
 
+
+## DESCRIPTION
+1. UIST_Zzuler : Editing Tool developed by [PROCESSING](https://processing.org/)
+2. UIST_Zzuler_Sensor : Mini puppet Controller by [ARDUINO](https://www.arduino.cc/)
+3. UIST_Zzuler_Servo :  Servo Moter Controller by [ARDUINO](https://www.arduino.cc/)
